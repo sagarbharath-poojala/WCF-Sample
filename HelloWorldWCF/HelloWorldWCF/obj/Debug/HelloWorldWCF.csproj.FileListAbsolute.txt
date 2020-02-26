@@ -1,0 +1,7 @@
+C:\FireQ\Bharath\HelloWorldWCF\HelloWorldWCF\HelloWorldWCF\bin\HelloWorldWCF.dll.config
+C:\FireQ\Bharath\HelloWorldWCF\HelloWorldWCF\HelloWorldWCF\bin\HelloWorldWCF.dll
+C:\FireQ\Bharath\HelloWorldWCF\HelloWorldWCF\HelloWorldWCF\bin\HelloWorldWCF.pdb
+C:\FireQ\Bharath\HelloWorldWCF\HelloWorldWCF\HelloWorldWCF\obj\Debug\HelloWorldWCF.csprojAssemblyReference.cache
+C:\FireQ\Bharath\HelloWorldWCF\HelloWorldWCF\HelloWorldWCF\obj\Debug\HelloWorldWCF.dll
+C:\FireQ\Bharath\HelloWorldWCF\HelloWorldWCF\HelloWorldWCF\obj\Debug\HelloWorldWCF.pdb
+C:\FireQ\Bharath\HelloWorldWCF\HelloWorldWCF\HelloWorldWCF\obj\Debug\HelloWorldWCF.csproj.CoreCompileInputs.cache
